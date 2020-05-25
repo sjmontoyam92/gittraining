@@ -1,7 +1,2 @@
 User info in github
-<<<<<<< HEAD
-"new line" 
-=======
 
-"Line from github"
->>>>>>> acf4a48ce807d164e9ff84781fd9275a966cc247
