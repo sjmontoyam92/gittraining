@@ -1,0 +1,110 @@
+commit 06ee53194ff6a1c9db6d3715646323c21f0f4868
+Merge: 0eeea6e d993c3f
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Mon May 25 12:20:29 2020 -0500
+
+    Merge branch 'master' of https://github.com/sjmontoyam92/gittraining
+
+commit 0eeea6e5b76c48cc2d68ab27e75efba26ee96fc1
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Mon May 25 12:19:33 2020 -0500
+
+    Fourth commit
+
+commit d993c3f5a99d510e0b3e30bb14e1c75a7170314f
+Author: sjmontoyam92 <37889502+sjmontoyam92@users.noreply.github.com>
+Date:   Mon May 25 12:18:16 2020 -0500
+
+    Update file3.txt
+
+commit 309f80f596562136ae89d9bdb7587f2a065d0f0a
+Merge: 20d1c6b acf4a48
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Sat May 23 22:00:43 2020 -0500
+
+    third commit
+
+commit acf4a48ce807d164e9ff84781fd9275a966cc247
+Author: sjmontoyam92 <37889502+sjmontoyam92@users.noreply.github.com>
+Date:   Sat May 23 21:56:07 2020 -0500
+
+    Update file3.txt
+
+commit 20d1c6b4ab91c52a6f58c3d73d090be6c1face45
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Sat May 23 21:51:43 2020 -0500
+
+    Second commit
+
+commit ef39f967afcca055e156d3b1b8fbfed2fe5f057f
+Author: sjmontoyam92 <37889502+sjmontoyam92@users.noreply.github.com>
+Date:   Sat May 23 21:43:44 2020 -0500
+
+    Create file3.txt
+
+commit 9c5b64ac87f78fc12291bb6c2429144ad6549401
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Sat May 23 21:32:26 2020 -0500
+
+    Test file
+
+commit d590a08041f1bd0d4e24ccf6ea94baa6bb53c250
+Author: sjmontoyam92 <37889502+sjmontoyam92@users.noreply.github.com>
+Date:   Sat May 23 21:23:23 2020 -0500
+
+    Initial commit
+commit 06ee53194ff6a1c9db6d3715646323c21f0f4868
+Merge: 0eeea6e d993c3f
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Mon May 25 12:20:29 2020 -0500
+
+    Merge branch 'master' of https://github.com/sjmontoyam92/gittraining
+
+commit 0eeea6e5b76c48cc2d68ab27e75efba26ee96fc1
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Mon May 25 12:19:33 2020 -0500
+
+    Fourth commit
+
+commit d993c3f5a99d510e0b3e30bb14e1c75a7170314f
+Author: sjmontoyam92 <37889502+sjmontoyam92@users.noreply.github.com>
+Date:   Mon May 25 12:18:16 2020 -0500
+
+    Update file3.txt
+
+commit 309f80f596562136ae89d9bdb7587f2a065d0f0a
+Merge: 20d1c6b acf4a48
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Sat May 23 22:00:43 2020 -0500
+
+    third commit
+
+commit acf4a48ce807d164e9ff84781fd9275a966cc247
+Author: sjmontoyam92 <37889502+sjmontoyam92@users.noreply.github.com>
+Date:   Sat May 23 21:56:07 2020 -0500
+
+    Update file3.txt
+
+commit 20d1c6b4ab91c52a6f58c3d73d090be6c1face45
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Sat May 23 21:51:43 2020 -0500
+
+    Second commit
+
+commit ef39f967afcca055e156d3b1b8fbfed2fe5f057f
+Author: sjmontoyam92 <37889502+sjmontoyam92@users.noreply.github.com>
+Date:   Sat May 23 21:43:44 2020 -0500
+
+    Create file3.txt
+
+commit 9c5b64ac87f78fc12291bb6c2429144ad6549401
+Author: sjmontoyam92 <sjmontoyam@gmail.com>
+Date:   Sat May 23 21:32:26 2020 -0500
+
+    Test file
+
+commit d590a08041f1bd0d4e24ccf6ea94baa6bb53c250
+Author: sjmontoyam92 <37889502+sjmontoyam92@users.noreply.github.com>
+Date:   Sat May 23 21:23:23 2020 -0500
+
+    Initial commit
